@@ -8,7 +8,7 @@ Repositorio para armazenagem de resumos do Git e GitHub do curso, Versionamento 
 
 ## 💻 Resumo das aulas
 
-| Aulas | Resumos |
+| Aulas | Resumo |
 |------|-------|
 | Gravando alterações no repositório local| (https://www.dio.me/)
 
