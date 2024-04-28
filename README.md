@@ -8,14 +8,38 @@ Repositorio para armazenagem de resumos do Git e GitHub do curso, Versionamento 
 
 ## 💻 Resumo das aulas
 
-| Aulas | Resumos |
-|------|-------|
-| Aula 01 | Resumo |
-| Aula 02 | Resumo |
+| Aula |
+|------|
+```
+Versionamento de código com Git e GitHub
+```
+
+| Resumo de alguns comados apredidos em aula|
+|-------|
+
 
 ```
-git init
+git init          PARA TRANSFORMAR EM REPOSITORIO GIT
+
+cd .git           PARA MOSTRAR O DIRETORIO GIT
+
+cd repo-local/    PARA ENTRAR NO REPOSITÓRIO
+
+cd ..             PARA VOLTAR A PASTA ANTERIOR
+
+cat config        PARA MOSTRAR AS CONFIGURAÇÃO DO REPOSITORIO
+
+git clone          PARA CLONAR REPOSITÓRIO
+	 
+git remote -v      PARA MOSTRAR REPOSITORIOS REMOTO VINCULADO
+	
+git status         PARA IR A AREA DE PREPARAÇÃO e ver os arquivos
+
+touch README.md    PARA CRIAR ARQUIVO 
 ```
+
+
+
 ## 🔎 Referencias
 
 - Codifique o seu futuro global (https://www.dio.me/)DIO-resumosgit-e-github
